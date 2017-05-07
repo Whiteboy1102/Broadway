@@ -1,0 +1,54 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+
+}
+
+.home { /* Could not locally link the background image for the life of me. Spent an hour on that alone*/
+    background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+    text-align: center;
+    color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+nav {
+  color: white;
+}
+
+nav p {
+  font-size: 18px !important
+}
+
+a {
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+
+}
+
+p {
+  font-size: 14px;
+}
+
+.ny {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  color: white;
+  font-weight: bold;
+}
+
+footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  text-align:left;
+}
